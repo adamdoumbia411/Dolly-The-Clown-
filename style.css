@@ -1,3 +1,12 @@
-body{background-color: #000000 !important;}
-h1{color: #ffffff;font-family: Helvetica;font-size: 40px;text-align: center;}
-p{color: #ffffff;}
+body {
+    background-color: #000000;
+}
+h1 {
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+p {
+    color: #ffffff;
+}
